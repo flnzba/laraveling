@@ -9,3 +9,4 @@
 - [x] Create a new Laravel project
 - [ ] install starter kit (breeze / livewire ?)
 - [ ] build a simple CRUD / todo app
+- [ ] Also include Filament PHPv3
